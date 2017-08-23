@@ -171,8 +171,8 @@ h1, h2, h3, h4, h5, h6 {
 #home {
   background: url('https://orig07.deviantart.net/23af/f/2015/143/8/f/welcome_to_the_internet_2_0_by_sharpwriter-d8uiibt.jpg')
     no-repeat
+    right
     center
-    top
     fixed;
   background-size: contain;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
