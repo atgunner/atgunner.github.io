@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .content-section img.pull-right {
   border: 5px solid #000000;
-  margin-top: 100px;
+  margin-top: 40px;
 }
 
 @media screen and (min-width: 768px) {
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (min-width: 1200px) {
   .content-section {
-    padding-top: 120px;
+    padding-top: 60px;
   }
   .content-section h1:after {
     padding-top: 7px;
