@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .content-section {
   min-height: 100vh;
-  padding-top: 70px;
+  padding-top: 20px;
   padding-bottom: 20px;
 }
 .content-section h1 {
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
 #home {
   background: url('https://orig07.deviantart.net/23af/f/2015/143/8/f/welcome_to_the_internet_2_0_by_sharpwriter-d8uiibt.jpg')
     no-repeat
-    right
+    top
     center
     fixed;
   background-size: cover;
