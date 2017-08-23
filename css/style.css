@@ -56,6 +56,9 @@ h1, h2, h3, h4, h5, h6 {
   .content-section p.lead {
     margin-bottom: 30px;
   }
+  #home {
+    background: scroll;
+  }
 }
 
 @media screen and (min-width: 992px) {
@@ -173,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
     no-repeat
     top
     center
-    scroll;
+    fixed;
     max-width: 100vw;
   background-size: cover;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
